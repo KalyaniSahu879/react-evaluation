@@ -1,0 +1,37 @@
+{
+    "country":[
+        {
+            "id":1,
+            "country":"India",
+            "city":"BBSR",
+            "population":1234,
+            "Edit":"edit",
+            "Delete":"Delete"
+        },
+        {
+            "id":2,
+            "country":"USA",
+            "city":"Salt lake city",
+            "population":3454,
+            "Edit":"edit",
+            "Delete":"Delete"
+        },
+        {
+            "id":3,
+            "country":"India",
+            "city":"Delhi",
+            "population":9934,
+            "Edit":"edit",
+            "Delete":"Delete"
+        },
+        {
+            "id":4,
+            "country":"India",
+            "city":"BBSR",
+            "population":8034,
+            "Edit":"edit",
+            "Delete":"Delete"
+        }
+
+    ]
+}
